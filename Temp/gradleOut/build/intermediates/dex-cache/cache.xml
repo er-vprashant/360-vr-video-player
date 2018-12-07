@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/prashantverma/vrTest/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5c4815b5a933ab87734d00229f003364424342a4">
+        <dex dex="/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/d737aeb1150d833c1c5a39560531953c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr-permissionsupport-release.aar/d7033ce2c86140ef69acd2b5f4425e95/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="89a665d716c3d6b2922d194ecd5aec7ae45beb3f">
+        <dex dex="/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prashantverma/vrTest/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr-keyboard.aar/5f8bd3e42615b8b127013b0d6c398c9b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9dbb83f0fca00962e516ec6a098b69c7a07d0bf8">
+        <dex dex="/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr-keyboardsupport-release.aar/1e225bd9197209be890059e62e0f2d53/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0e73b79f6ee536f7b2d00367f0a55dce11a3a61d">
+        <dex dex="/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="776ebd97e790dc59e41fe881d00804fe978868c7">
+        <dex dex="/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+
+</items>

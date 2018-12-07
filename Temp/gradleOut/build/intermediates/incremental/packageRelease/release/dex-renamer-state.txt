@@ -1,0 +1,4 @@
+#Fri Dec 07 16:28:44 IST 2018
+base.0=/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

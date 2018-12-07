@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/prashantverma/vrTest/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_settings_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout-ldrtl-v17/settings_button.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-xxxhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout_ui_layer.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/prashantverma/vrTest/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-xhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_back_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-xhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-hdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout_transition_view.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/prashantverma/vrTest/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-mdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable_rippleable.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable/rippleable.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi_app_banner.png.flat",
+        "source": "/Users/prashantverma/vrTest/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_back.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/d737aeb1150d833c1c5a39560531953c/res/drawable-nodpi-v4/vr_icon_back.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/prashantverma/vrTest/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout-ldrtl-land-v17/back_button.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_front.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/d737aeb1150d833c1c5a39560531953c/res/drawable-nodpi-v4/vr_icon_front.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-v17_back_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout-ldrtl-v17/back_button.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_transition.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-hdpi-v4/transition.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/prashantverma/vrTest/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout_settings_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout/settings_button.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-v21_rippleable.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-v21/rippleable.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout_back_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout/back_button.xml"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_transition.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-mdpi-v4/transition.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-hdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-xxhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-mdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/prashantverma/vrTest/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "/Users/prashantverma/.gradle/caches/transforms-1/files-1.1/gvr.aar/bcc25820450fef4d04e1924787fd3b8b/res/layout-ldrtl-land-v17/settings_button.xml"
+    }
+]
